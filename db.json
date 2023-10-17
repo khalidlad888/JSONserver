@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "title": "Rustic Wooden Coffee Table",
+      "description": "Add a touch of vintage charm to your living room with this rustic wooden coffee table.",
+      "image": "https://i.dummyjson.com/wooden-coffee-table.jpg",
+      "rating": 4.8,
+      "category": "furniture"
+    },
+    {
+      "id": 102,
+      "title": "Linen Upholstered Sofa",
+      "description": "Sink into the plush comfort of this linen upholstered sofa. Perfect for a cozy living room.",
+      "image": "https://i.dummyjson.com/linen-sofa.jpg",
+      "rating": 4.6,
+      "category": "furniture"
+    },
+    {
+      "id": 103,
+      "title": "Contemporary Dining Set",
+      "description": "Entertain in style with this sleek and modern dining set, perfect for contemporary homes.",
+      "image": "https://i.dummyjson.com/dining-set.jpg",
+      "rating": 4.4,
+      "category": "furniture"
+    },
+    {
+      "id": 104,
+      "title": "Vintage Desk Lamp",
+      "description": "Illuminate your workspace with this elegant vintage desk lamp, adding a touch of nostalgia to your decor.",
+      "image": "https://i.dummyjson.com/vintage-desk-lamp.jpg",
+      "rating": 4.2,
+      "category": "lighting"
+    },
+    {
+      "id": 105,
+      "title": "Minimalist Pendant Light",
+      "description": "Achieve a modern aesthetic with this minimalist pendant light, perfect for any contemporary space.",
+      "image": "https://i.dummyjson.com/pendant-light.jpg",
+      "rating": 4.9,
+      "category": "lighting"
+    },
+    {
+      "id": 106,
+      "title": "Soft Cotton Bedding Set",
+      "description": "Drift into a peaceful slumber with this soft cotton bedding set, promising utmost comfort.",
+      "image": "https://i.dummyjson.com/bedding-set.jpg",
+      "rating": 4.5,
+      "category": "bedding"
+    },
+    {
+      "id": 107,
+      "title": "Elegant Table Lamp",
+      "description": "Create an inviting ambiance with this elegant table lamp, the perfect addition to your bedside table.",
+      "image": "https://i.dummyjson.com/table-lamp.jpg",
+      "rating": 4.7,
+      "category": "lighting"
+    },
+    {
+      "id": 108,
+      "title": "Plush Throw Pillows",
+      "description": "Infuse warmth and coziness into your space with these plush throw pillows, available in various colors.",
+      "image": "https://i.dummyjson.com/throw-pillows.jpg",
+      "rating": 4.3,
+      "category": "bedding"
+    },
+    {
+      "id": 109,
+      "title": "Retro Floor Lamp",
+      "description": "Embrace vintage vibes with this retro floor lamp, designed to add character to any room.",
+      "image": "https://i.dummyjson.com/retro-floor-lamp.jpg",
+      "rating": 4.6,
+      "category": "lighting"
+    }
+  ]
+}
