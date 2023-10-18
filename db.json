@@ -4,40 +4,45 @@
       "id": 101,
       "title": "Rustic Wooden Coffee Table",
       "description": "Add a touch of vintage charm to your living room with this rustic wooden coffee table.",
-      "image": "https://i.dummyjson.com/wooden-coffee-table.jpg",
+      "image": "https://zufolodesigns.com/cdn/shop/products/11copy.jpg?v=1644587960",
       "rating": 4.8,
+      "price": 1200,
       "category": "furniture"
     },
     {
       "id": 102,
       "title": "Linen Upholstered Sofa",
       "description": "Sink into the plush comfort of this linen upholstered sofa. Perfect for a cozy living room.",
-      "image": "https://i.dummyjson.com/linen-sofa.jpg",
+      "image": "https://image.made-in-china.com/2f0j00ZTNknuRGaUrq/Simple-Design-Living-Room-Furniture-Linen-Fabric-Upholstery-Sofa-with-Soft-Cushions.webp",
       "rating": 4.6,
+      "price": 4000,
       "category": "furniture"
     },
     {
       "id": 103,
       "title": "Contemporary Dining Set",
       "description": "Entertain in style with this sleek and modern dining set, perfect for contemporary homes.",
-      "image": "https://i.dummyjson.com/dining-set.jpg",
+      "image": "https://www.relaxstudio.in/wp-content/uploads/2023/04/9-2.jpg",
       "rating": 4.4,
+      "price": 400,
       "category": "furniture"
     },
     {
       "id": 104,
       "title": "Vintage Desk Lamp",
       "description": "Illuminate your workspace with this elegant vintage desk lamp, adding a touch of nostalgia to your decor.",
-      "image": "https://i.dummyjson.com/vintage-desk-lamp.jpg",
+      "image": "https://m.media-amazon.com/images/I/51W9cJSw8dL.jpg",
       "rating": 4.2,
+      "price": 300,
       "category": "lighting"
     },
     {
       "id": 105,
       "title": "Minimalist Pendant Light",
       "description": "Achieve a modern aesthetic with this minimalist pendant light, perfect for any contemporary space.",
-      "image": "https://i.dummyjson.com/pendant-light.jpg",
+      "image": "https://www.jainsonslightsonline.com/image/cache/decorative/madhur/march-22/led-1-light-modern-modern-pendant-lighting-bedside-minimalist-aluminum-shade-kitchen-island-ceiling-lights-black-(oval)-1400x1400.JPG",
       "rating": 4.9,
+      "price": 600,
       "category": "lighting"
     },
     {
@@ -46,6 +51,7 @@
       "description": "Drift into a peaceful slumber with this soft cotton bedding set, promising utmost comfort.",
       "image": "https://i.dummyjson.com/bedding-set.jpg",
       "rating": 4.5,
+      "price": 1500,
       "category": "bedding"
     },
     {
@@ -54,6 +60,7 @@
       "description": "Create an inviting ambiance with this elegant table lamp, the perfect addition to your bedside table.",
       "image": "https://i.dummyjson.com/table-lamp.jpg",
       "rating": 4.7,
+      "price": 800,
       "category": "lighting"
     },
     {
@@ -62,6 +69,7 @@
       "description": "Infuse warmth and coziness into your space with these plush throw pillows, available in various colors.",
       "image": "https://i.dummyjson.com/throw-pillows.jpg",
       "rating": 4.3,
+      "price": 350,
       "category": "bedding"
     },
     {
@@ -70,7 +78,35 @@
       "description": "Embrace vintage vibes with this retro floor lamp, designed to add character to any room.",
       "image": "https://i.dummyjson.com/retro-floor-lamp.jpg",
       "rating": 4.6,
+      "price": 400,
       "category": "lighting"
-    }
+    },
+    {
+    "id": 110,
+    "title": "Modern Lounge Chair",
+    "description": "Relax in style with this modern lounge chair, a perfect blend of comfort and contemporary design.",
+    "image": "https://dummyimage.com/600x400/000/fff&text=Lounge+Chair",
+    "rating": 4.8,
+    "price": 750,
+    "category": "furniture"
+  },
+  {
+    "id": 111,
+    "title": "Cozy Knit Blanket",
+    "description": "Curl up with this cozy knit blanket, offering both warmth and a touch of texture to your living space.",
+    "image": "https://dummyimage.com/600x400/000/fff&text=Knit+Blanket",
+    "rating": 4.4,
+    "price": 1300,
+    "category": "bedding"
+  },
+  {
+    "id": 112,
+    "title": "Sleek Ceiling Light",
+    "description": "Add a touch of sophistication to your home with this sleek ceiling light, perfect for modern interiors.",
+    "image": "https://dummyimage.com/600x400/000/fff&text=Ceiling+Light",
+    "rating": 4.7,
+    "price": 500,
+    "category": "lighting"
+  }
   ]
 }
